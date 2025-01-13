@@ -2,12 +2,15 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 
 EmptyView:
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 08 44](https://github.com/user-attachments/assets/d618afdf-06de-47d8-9f28-431561030554)
 
 ErrorView:
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 28 13](https://github.com/user-attachments/assets/deb1a3a7-bcaf-47e3-bc47-7b4a3d1454f4)
 
 NormalView:
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 29 36](https://github.com/user-attachments/assets/c2cd5885-6b6f-4a66-8b4a-e3f55731e7b8)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
