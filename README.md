@@ -2,13 +2,13 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 
 EmptyView:
-![simulator_screenshot_269D0A7A-902D-4AA5-BC4F-CEA0BB9DC10F](https://github.com/user-attachments/assets/321c3c05-8e53-4856-9569-5632cfabb1c6)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 08 44](https://github.com/user-attachments/assets/d618afdf-06de-47d8-9f28-431561030554)
 
 ErrorView:
-![simulator_screenshot_75DEC28A-13AB-4E14-829B-F4B5F3C7137B](https://github.com/user-attachments/assets/78c4a12a-fd6f-4cb8-8b5f-37b79e34fda3)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 28 13](https://github.com/user-attachments/assets/deb1a3a7-bcaf-47e3-bc47-7b4a3d1454f4)
 
 NormalView:
-![simulator_screenshot_1AC85E5C-EF43-4E8A-9703-01AC650B088A](https://github.com/user-attachments/assets/e4d8118c-feb8-49a2-bd11-c64835766b22)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-12 at 21 29 36](https://github.com/user-attachments/assets/c2cd5885-6b6f-4a66-8b4a-e3f55731e7b8)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I prioritized the user experience of the app as I think it is important to make sure that a user likes using the app. I did this by making sure the app looks nice and is user friendly. I also included the ability to click on the links to take the users to the source website or the youtube video.
